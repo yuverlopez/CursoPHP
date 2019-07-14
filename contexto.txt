@@ -36,6 +36,13 @@ siempre
 
 
 agregar nuevos commit -- agregando estilos
-crt+p graba el nuevo commit
-	
+crt+entrer agrega el comentario agregando estilos y los encapsula
+publicar rama     estos dos es como poner git push
+
+
+
+git init   ..preparar carperta para el repositorio-osea genera la capeta .git en la carpeta
+git commit -m"comentario"  ..igual con ctr+p un nombre para la version
+git add "reposotorio"  ..solo 1 vez  git remote add origin https://github.com/yuverlopez/CursoPHP.git
+git push   ..para subir una vez hecho el git commit -m""
 	
