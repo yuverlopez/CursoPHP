@@ -1,0 +1,16 @@
+color agregar en extensiones
+	ctr+k  crt+t 
+
+extensiones...........
+	Spanish Language Pack for Visual Studio Code
+	Bracket Pair Colorizer
+	HTML Snippets
+	IntelliSense for CSS class names in HTML
+	Laravel 5 Snippets
+	Laravel goto view
+	Laravel Blade Snippets
+	Material Icon Theme
+	PHP Intelephense
+	
+	
+	
