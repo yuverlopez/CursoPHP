@@ -1,6 +1,6 @@
 <?php 
 
-$servername = "DESKTOP-BACGBTE";
+$servername = "DEVMASTERPC001\CLASESQL";
 $connectioninfo = array("Database"=>"ALMACEN");
 //$connectioninfo = array("Database"=>"ALMACEN","UID"=>"usuario","PWD"=> "123456");
 

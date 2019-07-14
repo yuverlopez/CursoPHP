@@ -9,8 +9,33 @@ extensiones...........
 	Laravel 5 Snippets
 	Laravel goto view
 	Laravel Blade Snippets
-	Material Icon Theme
+	Material Icon Theme     -----haber click
 	PHP Intelephense
 	
+
+archivo espacio de trabajo
+guardar espacio de trabajo
+control de codigo fuente
+agregar carpeta --- y selecciono la carpeta k se subiria al git
+windows -- administrador de credenciales
+credenciales de windowes -- quitar todo lo k tenga git al inicio
+crt+ñ abre consola
+en consola
+	git config --local user.email "yuverlopez@hotmail.com"    --enter 
+	git config --local user.name "Yuver"			--kien lo sube
+	git remote add origin https://github.com/yuverlopez/CursoPHP.git
+		puede salir fatal: remote origin already exists.   esta bien
+	git push -u origin master
+		saldra un login d gitbuh logearte
+
+Message = Primer Commit
+sincronizar
+dale al chek
+siempre
+**solo 2 eventos ... push sube y pull descarga
+
+
+agregar nuevos commit -- agregando estilos
+crt+p graba el nuevo commit
 	
 	
